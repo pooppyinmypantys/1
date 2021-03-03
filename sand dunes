@@ -1,0 +1,25 @@
+<!doctype html>
+<html>
+  <head>
+   <title>first terrain</title>
+	
+	<style>
+	.ground {
+	height: 1000px;
+	width: 100%;
+	background: url(sand.png);
+	position: absolute;
+	
+	}
+	body {
+	margin: 0;
+	padding: 0;
+	background-color: #69C9FF;
+	}
+	</style>
+	</head>
+	<body>
+	   <div class="ground"></div>  
+
+	</body>
+	</html>
